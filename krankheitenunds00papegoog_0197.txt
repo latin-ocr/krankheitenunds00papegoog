@@ -1,0 +1,34 @@
+’ 176 . ’ britta Abtailung. bia vararbung.
+
+1. ABG>< ABG 2. AbG>< AbG 3. ABa>< ABa 4. Aba>< Aba
+ABG >< AbG AbG>< ABG ABa>< ABG Aba >< ABG
+ABGxABa AbG>< ABa ABa>< AbG Aba >< AbG
+ABG>< Aba AbG><Aba ABa><Aba Aba><ABa
+ABG >< aBG AbG><aBG ABa>< aBG Aba>< aBG
+ABG>< abG AbG>< abG ABa >< abG Aba>< abG·
+ABG>< aBa AbG>< aBa ABa >< aBa · Aba ><aBa
+ABG >< aba AbG>< aba ABa >< aba Aba>< aba
+
+5. aBG>< aBG δυ abG>< abG 7. aBaxaBa 8. aba><aba ·
+aBG>< ABG awx ABG aBa >< ABG aba >< ABG
+aBG>< AbG abG>< AbG aBa ><AbG aba ><AbG
+aBG>< ABa abG>< ABa aBa>< ABa aba>< ABa
+aBG >< Aba abo >< Aba aBa >< Aba aba >< Aba
+aBG>< abo abeaBG aBa >d aBG aba><aBG
+abG>< aBa abG>< aBa aBa >< abG aba >< abo
+aBG>< aba abG>< aba aBa >< aba aba>< aBa
+
+Allo diese Kombinationan kann man am sahnallsben mit Bilta
+des folgenden Schemas fesbstellan:
+
+Mannum-'4 ι Ι
+.. ABG AbG ABa Aba aBG abo aBa aba
+Walbhah Α ·
+
+t A
+
+(Wia die aoht Musterbaispiele‚ dia in obigam Schema ein-
+gatragan sind, so miissen sbmtliaha 64 Felder ausgefiillt werden.)
+
+ 
+
